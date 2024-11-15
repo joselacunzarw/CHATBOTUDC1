@@ -1,0 +1,27 @@
+# Dependencias
+node_modules
+npm-debug.log
+
+# Archivos de construcción
+dist
+build
+
+# Archivos de desarrollo
+.git
+.gitignore
+README.md
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos del editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
